@@ -1,7 +1,4 @@
 import React from 'react';
-
 export default function Hello() {
-    return (
-        <div>Hello</div>
-    )
+  return /*#__PURE__*/React.createElement("div", null, "Hello");
 }
